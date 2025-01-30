@@ -1,0 +1,9 @@
+mistralai==0.0.12
+streamlit
+python-dotenv
+google-generativeai
+openai
+streamlit-extras
+streamlit-modal
+fireworks-ai
+together
