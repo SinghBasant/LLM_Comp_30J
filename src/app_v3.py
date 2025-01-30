@@ -335,7 +335,7 @@ def main():
 
         # Settings in sidebar
         with st.sidebar:
-            st.markdown("### 🤖 Select Models")
+            st.markdown("### 🤖 Select 3 Models")
             
             # Define available models
             available_models = {
